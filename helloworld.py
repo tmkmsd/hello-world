@@ -1,1 +1,5 @@
-print('Hello World!')
+A = 'Hello'
+B = 'World'
+C = '!'
+
+print(A, B, C)
